@@ -4,9 +4,9 @@ A fun, fully responsive **Tic Tac Toe** game built with pure HTML, CSS, and Java
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Live Deployed 
 
-> 🌐 [Play it here → https://adieshwarreddy.github.io/TIC-TAC-TOE-GAME-/](https://adieshwarreddy.github.io/TIC-TAC-TOE-GAME-/)
+> 🌐 [Play it here → https://zingy-hotteok-789d98.netlify.app/)
 
 ---
 
